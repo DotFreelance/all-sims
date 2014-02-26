@@ -3,7 +3,12 @@ all-sims
 
 This project enumerates all of the PhET Sims so they can be checked out simultaneously.
 
-Here are the commands that will check out all of the PhET Sims
+Here are the commands that will check out all of the PhET Sims:
+
+1. Install git
+2. Install npm
+3. Install grunt
+4. Run the following commands
 
 ```
 mkdir phet
