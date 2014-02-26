@@ -1,0 +1,19 @@
+{
+  "name": "all-sims",
+  "version": "1.0.0-dev.1",
+  "preload": "",
+  "phetLibs": "acid-base-solutions all-sims assert axon balancing-act balloons-and-static-electricity beers-law-lab build-a-fraction build-a-molecule \
+  build-an-atom chipper concentration dot energy-skate-park-basics example-sim faraday forces-and-motion-basics fraction-common fraction-comparison fraction-matcher fractions-intro \
+  friction graphing-lines gravity-and-orbits gravity-force-lab john-travoltage joist kite masses-and-springs mobius molarity molecule-polarity molecule-shapes \
+  nitroglycerin ohms-law ph-scale ph-scale-basics phet-core phet-info phetcommon phetmarks resistance-in-a-wire scenery scenery-phet sherpa \
+  sun together under-pressure vegas vibe wave-on-a-string",
+  "license": "GPLv3",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-requirejs": "~0.4.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "uglify-js": "~2.4.0",
+    "requirejs": "~2.1.8"
+  },
+  "requirejsNamespace": "ALL_SIMS"
+}
