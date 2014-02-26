@@ -13,5 +13,5 @@ git clone https://github.com/phetsims/chipper.git
 git clone https://github.com/phetsims/sherpa.git
 cd all-sims
 npm install
-grunt clone
+grunt get-dependencies
 ```
